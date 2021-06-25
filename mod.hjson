@@ -1,0 +1,8 @@
+name: "Radar mod"
+displayName: "This isn't a mod."
+author: Yourself
+description: "Bbfashbjhcbabfhsbafbhajbf"
+version: "1.0"
+minGameVersion: "127.1"
+dependencies: [ ]
+hidden: false
