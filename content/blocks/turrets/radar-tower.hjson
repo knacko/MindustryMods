@@ -1,21 +1,24 @@
 localizedName: "Radar Tower"
+type: "radarTower"
 description: "A non-damaging turret that shoots radio waves to identify enemies"
-size: 2
-range: 1000
+size: 1
+range: 20
 health: 100
 shots: 1
 inaccuracy: 0
-reloadTime: 1
-shootEffect: none
-smokeEffect: none
+chargeTime: 1000
+chargeMaxDelay:1000
+chargeEffects: 0
+recoil: 0
+smokeEffect: lancerLaserShootSmoke
+chargeEffect: lancerLaserCharge
+chargeBeginEffect: lancerLaserChargeBegin
 rotateSpeed: 1
 powerUse: 100
 targetAir: true
-outlineIcon: true
 requirements: [
   copper/200
   silicon/200
   titanium/100
 ]
 category: turret
-research: sapper

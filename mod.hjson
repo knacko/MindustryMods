@@ -1,8 +1,8 @@
 name: "Radar mod"
-displayName: "This isn't a mod."
+displayName: "Radar mod"
 author: Yourself
 description: "Bbfashbjhcbabfhsbafbhajbf"
 version: "1.0"
-minGameVersion: "127.1"
+minGameVersion: "126.3"
 dependencies: [ ]
 hidden: false
